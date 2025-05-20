@@ -1,0 +1,16 @@
+local function calculateLaunchAngle(projectileSpeed, gravity, horizontalDistance, verticalDistance)
+    local a = (projectileSpeed * projectileSpeed) / (gravity * horizontalDistance)
+    local b = math.sqrt(
+        (projectileSpeed * projectileSpeed * (projectileSpeed * projectileSpeed - 2 * gravity * verticalDistance)) /
+            (gravity * gravity * horizontalDistance * horizontalDistance) - 1
+    )
+    local tanTheta = a - b
+    local pitch = math.atan(tanTheta)
+
+    return pitch
+end
+
+projectile speed 
+gravity 
+distance between each other
+a = projectile speed *projectile speed / 
