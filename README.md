@@ -15,4 +15,5 @@ The compass on the map isnt accurate to the one ingame (!!!REMEMBER THAT!!!)
 Eyeball the Azimuth(direction) of the target
 When you are unsure if your elevation gonna hit whilst being on a slope, get an online protractor and do some math, Here is a very reliable and fast one you just snip your artillery's gun and check the angle https://www.ginifab.com/feeds/angle_measurement/
 
-** 4TH FOREVER 4TH FOREVER 4TH FOREVER 4TH FOREVER 4TH FOREVER 4TH FOREVER 
+### 4TH FOREVER 4TH FOREVER 4TH FOREVER 4TH FOREVER 4TH FOREVER 4TH FOREVER 
+4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 4TH FOREVER LONG LIVE HIS MAJESTY Zh_kov 
